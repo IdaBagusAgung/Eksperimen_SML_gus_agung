@@ -354,4 +354,4 @@ For questions or issues:
 
 **Status**: ✅ Kriteria 1 - COMPLETED (Advance Level - 4/4 points)
 
-**Last Updated**: November 2024
+**Last Updated**: 2025
